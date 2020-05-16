@@ -1,0 +1,6 @@
+C:\Users\UPPiotr\source\repos\Equations\Equations\bin\Debug\Equations.exe.config
+C:\Users\UPPiotr\source\repos\Equations\Equations\bin\Debug\Equations.exe
+C:\Users\UPPiotr\source\repos\Equations\Equations\bin\Debug\Equations.pdb
+C:\Users\UPPiotr\source\repos\Equations\Equations\obj\Debug\Equations.csprojAssemblyReference.cache
+C:\Users\UPPiotr\source\repos\Equations\Equations\obj\Debug\Equations.exe
+C:\Users\UPPiotr\source\repos\Equations\Equations\obj\Debug\Equations.pdb
